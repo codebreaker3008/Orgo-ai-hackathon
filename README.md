@@ -17,6 +17,8 @@ This version **simulates agent activity** with fake output so you can visualize 
 
 <img width="827" height="492" alt="Screenshot 2025-07-30 211439" src="https://github.com/user-attachments/assets/72f3752f-55e9-4660-96fd-176ff60acc63" />
 
+<img width="879" height="511" alt="Screenshot 2025-07-30 202121" src="https://github.com/user-attachments/assets/2ac67dce-5cc2-4949-83c0-bf668ddfd0c2" />
+
 ## ⚙️ Prerequisites
 
 - Node.js and npm  
