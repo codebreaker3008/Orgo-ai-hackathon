@@ -1,0 +1,6 @@
+Your job is to:
+1. Open the spreadsheet file on the desktop.
+2. Clean the data — remove duplicates, fill blanks.
+3. Summarize total sales, average per region, top 3 products.
+4. Open PowerPoint and create a slide summarizing these findings.
+5. Save the presentation to the desktop.
