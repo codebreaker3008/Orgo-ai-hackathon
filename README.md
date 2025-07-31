@@ -1,6 +1,6 @@
 # 🤖 ExecuBot UI
 
-A simple React-based mockup frontend for **ExecuBot** — your agent that automates boring tasks like spreadsheets, presentations, and reports.
+**ExecuBot** — your agent that automates boring tasks like spreadsheets, presentations, and reports.
 
 This version **simulates agent activity** with fake output so you can visualize the experience even before connecting a backend like Orgo + OpenAI.
 
